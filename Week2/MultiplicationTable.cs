@@ -16,16 +16,8 @@ namespace ConsoleApplication1
                 Console.WriteLine();
                 for (int j = 1; j <= 12; j++)
                 {
-                    if (i > 9)
-                    {
-                        Console.Write("{0}x{1} = {2} ", j, i, (i * j).ToString().PadRight(4));
-                    }
-                    else
-                    {
-                        Console.Write("{0}x{1} = {2} ", j, i, (i * j).ToString().PadRight(5));
-                    }
-                    
-                   
+                    Console.Write("{0}", (i * j).ToString().PadRight(4));
+
                 }
                 Console.Write("\n");
 
