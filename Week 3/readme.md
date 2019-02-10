@@ -1,7 +1,7 @@
 # DICE GAME
 
 ### About
-**The dice game is a game which entails 2 - 100 players actively playing at a time. It involves rolling 2 dies, in which the player with the highest total score wins the game after 3 trials. If there exists a tie, then there is a replay till a single winner emerges.**
+**The dice game is a game which entails 2 - 100 players actively playing at a time. It involves rolling a dice, in which the player with the highest total score wins the game after 3 trials. If there exists a tie, then there is a replay till a single winner emerges.**
 
 ---
 ### Below are the functions and what they do:
