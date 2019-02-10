@@ -1,10 +1,10 @@
 # DICE GAME
 
 ### About
-**The dice game is a game which entails 2 - 100 players actively playing at a time. It involves rolling 2 dices, in which the player with the highest total score wins the game after 3 trials. If there exists a tie, then there is a replay till a single winner emerges.**
+**The dice game is a game which entails 2 - 100 players actively playing at a time. It involves rolling 2 dies, in which the player with the highest total score wins the game after 3 trials. If there exists a tie, then there is a replay till a single winner emerges.**
 
 ---
-### Below are the functions and their tasks:
+### Below are the functions and what they do:
 ### *start_game()*
 This function starts the game by explaining the rules of the game to the player, and accepting player usernames.
 
